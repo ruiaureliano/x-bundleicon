@@ -8,7 +8,7 @@
 
 ### Using Github
 
-[![](https://img.shields.io/badge/Download-1.2-ba3ce5.svg?logo=github)](https://github.com/ruiaureliano/x-bundleicon/releases/download/1.0/xbi)
+[![](https://img.shields.io/badge/Download-1.0-ba3ce5.svg?logo=github)](https://github.com/ruiaureliano/x-bundleicon/releases/download/1.0/xbi)
 
 ## Usage
 
