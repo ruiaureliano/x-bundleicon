@@ -4,6 +4,10 @@
 
 ---
 
+This is a command line tool to extract an app icon. this sample will extract the icon 16x16 from Safari app.
+
+`xbi com.apple.Safari 16 /Users/ruiaureliano/Desktop/com.apple.Safari.png`
+
 ## Installation
 
 ### Using Github
